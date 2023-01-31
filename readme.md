@@ -13,8 +13,7 @@ This application is a simple YARP proxy to remove a querystring that causes JFro
 
 ## Configuration
 
-Set an app setting ``` ReverseProxy__Clusters__containerRegistryCluster__Destinations__destination1__Address 
-``` to the host name of your JFrog instance.
+Set an app setting ``` ReverseProxy__Clusters__containerRegistryCluster__Destinations__destination1__Address ``` to the host name of your JFrog instance.
 
 Reference an image via the proxy hostname.
 
